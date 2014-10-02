@@ -5,3 +5,9 @@
 /bin
 /build
 /eclipse
+/saves
+/logs
+/config
+/crash-reports
+options.txt
+*.log
