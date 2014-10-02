@@ -1,0 +1,8 @@
+tile.keylockeddoor.name=Key-locked door
+tile.codelockeddoor.name=Code-locked door
+tile.keyredstonelock.name=Key Redstonelock
+tile.coderedstonelock.name=Code Redstonelock
+item.itemkeylockeddoor.name=Key-locked door
+item.itemcodelockeddoor.name=Code-locked door
+item.key.name=Key
+item.remover.name=Locked door remover

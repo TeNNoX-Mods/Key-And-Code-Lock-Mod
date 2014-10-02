@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TeNNoX_KeyAndCodeLock",
+  "name": "KeyAndCodeLock",
+  "description": "Lock up everythin'",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.minecraftforum.net/topic/1262805-",
+  "updateUrl": "",
+  "authors": ["TeNNoX"],
+  "credits": "TeNNoX for coding and texturing",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
